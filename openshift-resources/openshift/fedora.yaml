@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ImageStream
+metadata:
+  namespace: openshift
+  name: fedora
+spec:
+  dockerImageRepository: library/fedora

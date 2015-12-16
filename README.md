@@ -1,1 +1,1 @@
-# mythtv-backend-docker
+Feel free to use it, but it probably doesn't do anything

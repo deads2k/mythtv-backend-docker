@@ -1,4 +1,4 @@
 FROM fedora:23
 
-RUN yum install -y mythtv-backend; yum clean all
+RUN yum install -y mythtv && yum clean all
 
